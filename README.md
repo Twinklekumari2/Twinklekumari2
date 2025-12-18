@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Twinkle
 
 <p align="center">
-  <img src="HEADER_GIF_LINK_HERE" alt="Header Animation" />
+  <img src="twinkle.jpg" alt="Header Animation" />
 </p>
 
 ### _Computer Science Student | Web Developer | Learning One Bug at a Time_
@@ -21,7 +21,6 @@
 ## 🔭 What I’m Working On
 
 - 🚑 **Emergency Services Web App** (location-based features)
-- 
 ---
 
 ## 🧰 Tech Stack
@@ -52,14 +51,3 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6A5ACD&style=flat" alt="profile views" />
-</p>
-
----
-
-<p align="center">
-  <img src="FOOTER_GIF_LINK_HERE" alt="Footer Animation" />
-</p>
