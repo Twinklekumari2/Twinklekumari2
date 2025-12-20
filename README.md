@@ -48,6 +48,7 @@
 - 📧 Email: **twinklekumari246@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/twinkle-kumari-b09306325/**
 - 🌟 LeetCode: **https://leetcode.com/u/twinklekumari2/**
+- 🌐 X: **https://x.com/PrsnlTwink35065**
 
 ---
 
