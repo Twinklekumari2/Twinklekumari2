@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Twinkle
 
 <p align="center" >
-  <img src="twinkle.jpg" alt="Header Animation" height="200px" width="500px" />
+  <img src="twinkle.jpg" alt="Header Animation" height="400px" width="500px" />
 </p>
 
 ### _Computer Science Student | Web Developer | Learning One Bug at a Time_
